@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bieniadev&label=Profile%20views&color=0e75b6&style=flat" alt="bieniadev" /> </p>
 
-- 🔭 I’m currently working on **Wotch**
+- 🔭 I’m currently working on my own app **Wotch**
 
 - 🌱 I’m currently learning **Flutter, Dart, Mobile App Development/Design**
 
