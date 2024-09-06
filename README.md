@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba Bienia</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bieniadev&label=Profile%20views&color=0e75b6&style=flat" alt="bieniadev" /> </p>
 
-- 🔭 I’m currently developing mobile app:  **MUZZA & S.Z.A.DO GP**
+- 🔭 I’m currently developing 2 mobile apps:  **MUZZA & S.Z.A.DO GP**
 
 - 🌱 I’m currently learning **Flutter, Dart, Mobile App Development/Design, DotNet 8, Blazor/Razor**
 
