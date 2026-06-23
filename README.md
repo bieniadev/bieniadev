@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently developing 2 mobile apps:  **MUZZA & S.Z.A.DO GP**
 
-- 🌱 I’m currently learning **Flutter, Dart, Mobile App Development/Design, DotNet 8, Blazor/Razor**
+- 🌱 I’m currently learning **Flutter, Dart, Mobile App Development/Design, .NET 10, Blazor/Razor**
 
-- 🤝 I’d be helpfull for tips in **Flutter**
-
-- 📫 How to reach me **kuba.bienia@gmail.com**
+- 📫 How to reach me **kubabienia@gmail.com**
 
 - ⚡ Fun fact **I can do a backflip 🤸**
 
